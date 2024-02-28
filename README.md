@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Microsoft Azure: SIEM & SOAR HoneyPot Project</b>
-  - [Microsoft Azure: SIEM & SOAR](hyperlink)
+  - [Microsoft Azure: SIEM & SOAR](https://github.com/faizaanpatel/AzureSEIMHoneyPot)
 - <b>Active Directory Home Lab</b>
   - [Active Directory](hyperlink)
 - <b>Nessus Essential Vulnerability Management Project</b>
