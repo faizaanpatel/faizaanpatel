@@ -5,7 +5,7 @@
 - <b>Microsoft Azure: SIEM & SOAR HoneyPot Project</b>
   - [Microsoft Azure: SIEM & SOAR](https://github.com/faizaanpatel/AzureSEIMHoneyPot)
 - <b>Active Directory Home Lab</b>
-  - [Active Directory](https://github.com/faizaanpatel/ActiveDirectoryHomeLab)
+  - [Setting up an Active Directory Environment](https://github.com/faizaanpatel/ActiveDirectoryHomeLab)
 - <b>Nessus Essential Vulnerability Management Project</b>
   - [Nessus Essential Vulnerability Management](hyperlink)
 
