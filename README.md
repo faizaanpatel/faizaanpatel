@@ -7,7 +7,7 @@
 - <b>Active Directory Home Lab</b>
   - [Setting up an Active Directory Environment](https://github.com/faizaanpatel/ActiveDirectoryHomeLab)
 - <b>Nessus Essential Vulnerability Management Project</b>
-  - [Nessus Essential Vulnerability Management]()
+  - [Nessus Essential Vulnerability Management](https://github.com/faizaanpatel/NessusVulnerabilityManagementProject/tree/main)
 - <b>J-Wipe - Disk Sanitization</b>
   - [How to use the J-Wipe Utility](https://github.com/faizaanpatel/jwipeutility/tree/main)
 
