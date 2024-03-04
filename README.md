@@ -9,7 +9,7 @@
 - <b>Nessus Essential Vulnerability Management Project</b>
   - [Nessus Essential Vulnerability Management](hyperlink)
 - <b>J-Wipe - Disk Sanitization</b>
-  - [How to use the J-Wipe Utility]()
+  - [How to use the J-Wipe Utility](https://github.com/faizaanpatel/jwipeutility/tree/main)
 
 <h2>🖥️ Software/Application Security Projects:</h2>
 
