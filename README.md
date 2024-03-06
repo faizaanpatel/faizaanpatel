@@ -22,8 +22,6 @@
   
 - <b>Automation of Pentesting Port Scanner Project</b>
   - [Automation of Port Scanning Pentesting Project](https://github.com/faizaanpatel/Auto-PortScanPenTest)
-- <b>Automation of Pentesting NMP Scanner Project</b>
-  - [Automation of NMP Pentesting Project](https://github.com/faizaanpatel/Auto-NMPPenTest)
 - <b>Automation of Cybersecurity News Project</b>
   - [Automation of Cybersecurity News](https://github.com/faizaanpatel/Auto-CyberNews)
 - <b>Automation of Cybersecurity CVE List Generator Project</b>
