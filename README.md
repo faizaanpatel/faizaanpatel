@@ -14,20 +14,20 @@
 <h2>🖥️ Software/Application Security Projects:</h2>
 
 - <b>REST API for Medical Clinic with Node JS and Express Project</b>
-  - [REST API with Node JS and Express](hyperlink)
+  - [REST API with Node JS and Express](https://github.com/faizaanpatel/RestAPINodeJS)
 - <b>AWS Web Application Security using DVWA Project</b>
-  - [AWS Web Application Security using DVWA (Damn Vulnerable Web Application) Project](hyperlink)
+  - [AWS Web Application Security using DVWA (Damn Vulnerable Web Application) Project](https://github.com/faizaanpatel/AWS-DWVA)
 
 <h2>🔁 Automations Using Script Projects:</h2>
   
 - <b>Automation of Pentesting Port Scanner Project</b>
-  - [Automation of Port Scanning Pentesting Project](hyperlink)
+  - [Automation of Port Scanning Pentesting Project](https://github.com/faizaanpatel/Auto-PortScanPenTest)
 - <b>Automation of Pentesting NMP Scanner Project</b>
-  - [Automation of NMP Pentesting Project](hyperlink)
+  - [Automation of NMP Pentesting Project](https://github.com/faizaanpatel/Auto-NMPPenTest)
 - <b>Automation of Cybersecurity News Project</b>
-  - [Automation of Cybersecurity News](hyperlink)
+  - [Automation of Cybersecurity News](https://github.com/faizaanpatel/Auto-CyberNews)
 - <b>Automation of Cybersecurity CVE List Generator Project</b>
-  - [Automation of Cybersecurity CVE (Common Vulnerabilities and Exposures) List Generator Project](hyperlink)
+  - [Automation of Cybersecurity CVE (Common Vulnerabilities and Exposures) List Generator Project](https://github.com/faizaanpatel/Auto-CyberCVE)
 
 <h2> 🥇 Certifications:</h2>
 
