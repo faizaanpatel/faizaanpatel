@@ -27,11 +27,3 @@
 - <b>Automation of Cybersecurity CVE List Generator Project</b>
   - [Automation of Cybersecurity CVE (Common Vulnerabilities and Exposures) List Generator Project](https://github.com/faizaanpatel/Auto-CyberCVE)
 
-<h2> 🥇 Certifications:</h2>
-
- - [CompTIA Security+](hyperlink)
- - [Google Cyber Security Certification](hyperlink)
- - [Microsoft Certified: Azure Fundamentals](hyperlink)
- - [AWS Certified Cloud Practicioner](hyperlink)
- 
-
